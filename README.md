@@ -17,3 +17,11 @@ ln -s  ~/git/.gitignore-global ~/.gitignore-global
 
 
 Alternatively, just copy files over... 
+
+
+## Credits
+I've acquired these files from all over the Internet and Github, with no recollection of where I obtained them
+
+My appologies to all that contributed, and I have no way to give attribute or credit.
+
+
