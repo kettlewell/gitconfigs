@@ -11,10 +11,11 @@ git clone https://github.com/kettlewell/gitconfigs.git ~/git/gitconfigs
 
 ### Symlink Files
 
+```
 ln -s  ~/git/.gitconfig ~/.gitconfig
 ln -s  ~/git/.git-commit-template ~/.git-commit-template
 ln -s  ~/git/.gitignore-global ~/.gitignore-global
-
+```
 
 Alternatively, just copy files over... 
 
@@ -22,6 +23,6 @@ Alternatively, just copy files over...
 ## Credits
 I've acquired these files from all over the Internet and Github, with no recollection of where I obtained them
 
-My appologies to all that contributed, and I have no way to give attribute or credit.
+My apologies to all that contributed, and I have no way to give attribute or credit.
 
 
